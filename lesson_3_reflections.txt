@@ -6,10 +6,12 @@ local?
 3) When work may need to be accessed by several workers.
 4) When work may need to be puclicly avaialble and shared.
 
+This line is to test and debug core.editor that I could not setup for notepad++
+
 Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
 
-    Fill in your answer here
+ As far as I understand, Git is a tool for manual version control. A human being is to decide when to performe manual commits. Otherwise, automatic commits will take over the control of the work. It will overwrite the work of the programmer.
 
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
