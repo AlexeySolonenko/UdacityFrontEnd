@@ -35,6 +35,7 @@ How do the diagrams help you visualize the branch structure?
 In my opinion it should be used as a planning tool mostly. Temporary small branches can be integrated in the process ad-hoc. However, fundamental project design shall be implemennted afore-ahead.
 
 What is the result of merging two branches together?
+As I can undertand it, the result is XOR of a line-by-line comparison of two files. An important note, that, again, I guess, Git assignes to lines its own numbers, which are kind of consistent through-out the history. Physical line number may change, of course. Acutually, I am kind of to check it out.
 
 
  Why do we represent it in
