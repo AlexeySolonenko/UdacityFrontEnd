@@ -24,6 +24,7 @@ One shall add all the files to be commited to the staging area. then either only
 
 What are some situations when branches would be helpful in keeping your history
 organized?
+(1) for testing (2) for developing of alternative options (3) for developing of products based on a common core.
 
 
 How would branches help?
