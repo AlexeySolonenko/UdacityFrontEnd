@@ -13,12 +13,13 @@ Repository is a combination o the current files and their commit history/log.
 Stage is the virtual area that lists files prepared for commit and/or (I do not know yet) requiring a commit.
 
 What value do you think it offers?
-
+It is a great tool for proper planning and working out of your commits. Once you finalized a set of a logically completed changes, then you can submit them without creating a numerious usless commits.
 
 
 
 How can you use the staging area to make sure you have one commit per logical
 change?
+One shall add all the files to be commited to the staging area. then either only the selected files shall be commited, or diff shall be used to verify that there are either no other changes in teh working directoyr, or that these changes may be ignored/discarded.
 
 
 What are some situations when branches would be helpful in keeping your history
