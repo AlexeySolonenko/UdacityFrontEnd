@@ -1,0 +1,54 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+I think it was a very efficient way to debug.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+I used to use revisions and versions of works that I do as engineer. However, a thought about any systematic approach or solution existing has not come up to my mind. That course is a real discovery for me.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+Auto Pros. Automatic is more fail proof. I used it in Joomla when I was making a website. Quite useful.
+Auto Cons. The logic used to create a version may be misleading in terms of applicability to the programmer.
+Autu Cons. Automatic may create too many version before a programmer starts debugging. Thus, bug may accumulate from earlier versions towards later ones.
+
+Manual Cons. Human factor. That's it. Requires good discipline and organization.
+Manual Pros. If performed correctly, provides a neat and logical sequence/tree of versions.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+I believe, that the Git is more project-oriented. Project normally consists of multiple files.
+I may suppose, that Google Docs is more task-focused, so that it provides a fine-tuning tools for a single file.
+
+How can you use the commands git log and git diff to view the history of files?
+
+I do not know yet.
+updated 201704102140
+Git log command lists a history of all commits and allows to look through it. 
+I MADE A CHEAT, I used git diff --stat to count the line changes between two commits and got an answer for the course's quiz.
+Git diff compares to versions of commits and shows differences. Also has many useful and interesting options.
+
+
+How might using version control make you more confident to make changes that
+could break something?
+
+By having a backup. A solid series of backup files provide a great flexibility in design. As well, it accelerates the work a lot. I learned it in engineering.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+To learn how to use it. Afterwards I am planning to use it very extensively for many areas of my work, and, perhaps, personal life.
+
+
+201704102100
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+It allows to:
+1) Debug more efficiently.
+2) Restore in memory uncompleted tasks and commenting.
+3) Track/trace the overall progress and performance.
+4) Reflect on the way you work and think.
