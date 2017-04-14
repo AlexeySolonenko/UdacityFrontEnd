@@ -32,7 +32,7 @@ How would branches help?
 How do the diagrams help you visualize the branch structure?
 
 
-
+In my opinion it should be used as a planning tool mostly. Temporary small branches can be integrated in the process ad-hoc. However, fundamental project design shall be implemennted afore-ahead.
 
 What is the result of merging two branches together?
 
