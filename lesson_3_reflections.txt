@@ -16,7 +16,23 @@ automatically stay up-to-date with your remote repository?
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
 
-    Fill in your answer here
+Branching creates a copy of an existing repository, either local or remote.
+
+However, this copy remains an internal part of that repository.
+Braincing is used when a worker(s) need to work on the same project/target/product/
+piece of code. For isntance, a game is developed by a company. So, there is a repository
+for that game.
+Branching is recommended to be used for development of: (1) versions of the same code
+and/or project (part of a larger code); (2) testing and experimenting; (3)
+collaborating on the same piece of code by various workers; (4) keeping production
+code and development code separate from each other.
+
+Cloning and forking are technically similar. They both create a topy of a repository.
+They are used to make a copy that is not connected and is not a part, like branching,
+of its parent repository. It is used for copying of code for storage or for futher 
+independent usage of it. Cloning relates to making a copy on a local machine. Forking
+relates to github. GitHub provides some extra features for forking, like, for instance, 
+tracking of users that forked.
 
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
