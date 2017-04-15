@@ -37,7 +37,10 @@ tracking of users that forked.
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+This is a great feature of Git, in my opinion. It shows a point from
+where an offline work started. Also it allows to compare in future the
+history of changes between commits on a remote and locally.
+
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
