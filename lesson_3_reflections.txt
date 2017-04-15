@@ -60,4 +60,12 @@ and provides and outstanding backup features for corrupted files.
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+1) In my point of view committing directly into master should be used for:
+1.1) Changes that are required to be done urgently (bug fixes, security pathces).
+1.2) Changes that do not require approval or review, or those that have been reviewd
+and approved.
+1.3) Very small changes if the piece of work itself is small and does not require
+many files, etc.
+2) I think, that a separate branch must be used for changes in all other times. Either
+for collaboration, or for recheck before committing to master.
+
