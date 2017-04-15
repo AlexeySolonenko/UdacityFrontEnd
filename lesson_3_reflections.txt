@@ -45,7 +45,17 @@ history of changes between commits on a remote and locally.
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+I would use some different paltform, software or approach.
+I am from engineering background from a regulatory background. 
+There, in regulated industrial environment, a version control is more of
+a statutory documentation nature, so all the version control procedures are
+inherited from law and legislation practices, incl. attorneys, witnessing, etc.
+So, by not knowing other approaches, I would continue the same one.
+
+It would be harder to do it with software. The software used for version control is an amazing
+feature that boosts productivity. It provides for better planning, better handling of problems and errors,
+and provides and outstanding backup features for corrupted files.
+
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
